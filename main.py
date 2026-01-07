@@ -112,6 +112,6 @@ class User:
 #
 #
 
-yasir  = Account(34101, "Yasir", 789)
-yasir.checkBalance()
-yasir.deposit(100)
+Aftab  = Account(34101, "Aftab", 789)
+Aftab.checkBalance()
+Aftab.deposit(100)
