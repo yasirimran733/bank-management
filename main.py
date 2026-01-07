@@ -114,4 +114,4 @@ class User:
 
 Aftab  = Account(34101, "Aftab", 789)
 Aftab.checkBalance()
-Aftab.deposit(100)
+Aftab.deposit(200)
